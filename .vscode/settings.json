@@ -11,7 +11,7 @@
 	"files.trimFinalNewlines": true,
 	"files.trimTrailingWhitespace": true,
 	"editor.fontSize": 18,
-	"editor.tabSize": 3,
+	"editor.tabSize": 2,
 	"editor.tabCompletion": "on",
 	"editor.stickyTabStops": true,
 	"files.autoSave": "afterDelay",
